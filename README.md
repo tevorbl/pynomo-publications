@@ -8,7 +8,8 @@ nomogen_user_guide.pdf - how to use nomogen with pynomo, with examples.
 
 *.py                   - example files
 
-THe file pynomo-doc can be found here: https://github.com/lefakkomies/pynomo-doc/raw/gh-pages/pynomo_doc.pdf
+The file pynomo-doc can be found here: https://github.com/lefakkomies/pynomo-doc/raw/gh-pages/pynomo_doc.pdf
+
 There is an online version here: http://lefakkomies.github.io/pynomo-doc/index.html
 
 The other files above can be found from the official pynomo website:
